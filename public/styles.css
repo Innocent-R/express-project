@@ -1,0 +1,41 @@
+body{
+  /* background:hsl(213, 61%, 18%); */
+  color: white;
+  padding: 5%;
+  background-image: url('https://rocketexpansion.com/wp-content/uploads/2023/10/Back-cover-of-a-book.jpg');
+}
+h3{
+  margin-top: 40px;
+  color: yellow;
+  font-size: 2em;
+}
+h1{
+  font-size: 6em;
+  color: yellow ;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+  font-size: 3em;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li{
+  font-size: 1.5em;
+}
+.fa.fa-thumbs-up{
+  cursor: pointer;
+}
+.fa.fa-thumbs-down{
+  cursor: pointer;
+}
+.fa.fa-trash{
+  cursor: pointer;
+}
+button{
+  cursor: pointer;
+  background-color: green;
+  color: white;
+  font-size: 1em;
+}
+input{
+  font-size: 1em;
+}
