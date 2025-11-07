@@ -11,8 +11,6 @@
   <h1>Chapter Chat</h1>
   <h2>What's your favorite book?</h2>
 
-
-  <h3>Books</h3>
   <ul class="messages">
   <% for(var i=0; i<messages.length; i++) {%>
     <li class="message">
@@ -24,9 +22,9 @@
       <span><i class="fa fa-trash" aria-hidden="true"></i></span>
     </li>
   <% } %>
-  </ul>
+ </ul><br><br><br><br>
 
-  <h3>Add a book</h3>
+  <h3>Add a new book</h3>
 
   <form action="/messages" method="POST">
     <input type="text" placeholder="Book name" name="name">
