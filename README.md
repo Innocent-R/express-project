@@ -1,11 +1,12 @@
 
-Project: C
+Project: Chapter Chat 
 
-Palindrome checker is a project that is made with Node.js which leverages JS on the server side
+The chapter chat project is an online platform where users add their favorite books and others can like them
 
-How It's Made: Tech used: HTML, CSS, JavaScript and Node.js
+How It's Made: 
+Tech used: HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB
 
-Lessons Learned: I learned how to use and implement server side logic and using Node.js. I also learned how to run a project in the terminal and open in the local host.
+Lessons Learned: I learned how to deploy the fullstack app to a web server, making it accessible to users online.
 
 
 
