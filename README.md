@@ -4,6 +4,7 @@ Project: Chapter Chat
 The chapter chat project is an online platform where users add their favorite books and others can like them
 
 How It's Made: 
+
 Tech used: HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB
 
 Lessons Learned: I learned how to deploy the fullstack app to a web server, making it accessible to users online.
